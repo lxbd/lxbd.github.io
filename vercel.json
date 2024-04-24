@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    {"source": "/(.*)", "destination": "https://dev-lx8d.pantheonsite.io/$1"}
-  ]
-}
